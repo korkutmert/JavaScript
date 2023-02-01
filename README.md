@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mert</h1>
+<h1>Hi 👋, I'm Mert</h1>
 - 🔭 I’m currently working on **.Net Core**
 
 - 🌱 I’m currently learning **C#, .Net Core, JavaScript**
